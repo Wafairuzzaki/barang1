@@ -105,7 +105,7 @@ class CI_Config {
 			}
 			else
 			{
-				$base_url = 'https://wafairuzzaki.github.io/barang1/';
+				$base_url = 'https://wafairuzzaki.github.io/';
 			}
 
 			$this->set_item('base_url', $base_url);
